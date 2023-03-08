@@ -1,2 +1,2 @@
-# IPL-Win-Probability-Predictor
-IPL Win Probability Predictor
+# ipl-win-probability-predictor
+A machine learning project to find out the win probability of an IPL match
